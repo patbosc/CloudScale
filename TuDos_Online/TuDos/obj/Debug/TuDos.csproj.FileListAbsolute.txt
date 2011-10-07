@@ -1,0 +1,16 @@
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos\bin\TuDos.dll
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos\bin\TuDos.pdb
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos\bin\EntityFramework.dll
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos\bin\Microsoft.Web.Infrastructure.dll
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos\bin\Microsoft.Web.Optimization.dll
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos\bin\System.Web.Helpers.dll
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos\bin\System.Web.Mvc.dll
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos\bin\System.Web.Providers.dll
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos\bin\System.Web.Razor.dll
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos\bin\System.Web.WebPages.Deployment.dll
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos\bin\System.Web.WebPages.dll
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos\bin\System.Web.WebPages.Razor.dll
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos\bin\EntityFramework.xml
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos\obj\Debug\TuDos.csprojResolveAssemblyReference.cache
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos\obj\Debug\TuDos.dll
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos\obj\Debug\TuDos.pdb

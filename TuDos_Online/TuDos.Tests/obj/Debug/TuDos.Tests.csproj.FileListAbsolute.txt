@@ -1,0 +1,8 @@
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos.Tests\bin\Debug\TuDos.Tests.dll.config
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos.Tests\bin\Debug\TuDos.Tests.dll
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos.Tests\bin\Debug\TuDos.Tests.pdb
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos.Tests\bin\Debug\TuDos.dll
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos.Tests\bin\Debug\TuDos.pdb
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos.Tests\obj\Debug\TuDos.Tests.csprojResolveAssemblyReference.cache
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos.Tests\obj\Debug\TuDos.Tests.dll
+D:\My Projects\Git\CloudScale\TuDos_Online\TuDos.Tests\obj\Debug\TuDos.Tests.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuDos", "TuDos\TuDos.csproj", "{98C8537C-56C6-46CE-BB1F-1E7FB44E1051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuDos.Tests", "TuDos.Tests\TuDos.Tests.csproj", "{2BB86DC2-B91A-4AA7-94B5-59AC77761FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98C8537C-56C6-46CE-BB1F-1E7FB44E1051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C8537C-56C6-46CE-BB1F-1E7FB44E1051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C8537C-56C6-46CE-BB1F-1E7FB44E1051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C8537C-56C6-46CE-BB1F-1E7FB44E1051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BB86DC2-B91A-4AA7-94B5-59AC77761FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB86DC2-B91A-4AA7-94B5-59AC77761FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB86DC2-B91A-4AA7-94B5-59AC77761FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB86DC2-B91A-4AA7-94B5-59AC77761FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
